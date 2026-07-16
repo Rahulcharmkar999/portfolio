@@ -1,2 +1,2 @@
 # Portfolio
-Personal Portfolio Website showcasing my skills, projects, and coding profiles.
+Personal Portfolio Websites showcasing my skills, projects, and coding profiles.
